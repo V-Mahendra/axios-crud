@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "msr",
+      "email": "m@test.com",
+      "password": "pass",
+      "id": 5
+    },
+    {
+      "name": "zax",
+      "email": "Z@test.com",
+      "password": "info",
+      "id": 6
+    },
+    {
+      "name": "jon",
+      "email": "j@test.cpm",
+      "password": "5555",
+      "id": 7
+    },
+    {
+      "name": "sam",
+      "email": "s@test.com",
+      "password": "3333",
+      "id": 8
+    }
+  ]
+}
